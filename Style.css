@@ -1,0 +1,68 @@
+
+.Logo_Title{
+	
+	display:flex;
+	padding-inline: 10px;
+	align-content: center;
+	gap: 15px;
+	
+}
+
+h1{
+	margin: 0;
+  	font-size: 45px;
+}
+.color_text{
+	color: rgb(255, 90, 67);
+}
+p{
+	font-size: 25px;
+	text-align: justify;
+	padding: 2px;
+}
+.founders{
+		justify-content: center;
+		margin: auto;
+		padding: 5px;
+		display: flex;
+}
+.founders1{
+	box-sizing: border-box;
+	background-color:fff;
+ 	border-radius: 10px;
+  	box-shadow: 0 0 5px rgb(255, 90, 67);
+  	display: inline-flex;
+  	margin-right: 5px;
+}
+.founders2{
+	box-sizing: border-box;
+	background-color:fff;
+ 	border-radius: 10px;
+  	box-shadow: 0 0 5px rgb(255, 90, 67);
+}
+h2{
+	font-size: 40px;
+	line-height: 0;
+}
+h3{
+	font-size: 35px;
+	color: rgb(255, 90, 67);
+	line-height: 0;
+}
+.list{
+	text-align: justify;
+	padding: 4px;
+	margin: 0;
+	list-style: none;
+}
+.Video{
+	justify-content: center;
+}
+h4{
+	text-align: center;
+	color: black;
+	line-height: 0;
+}
+#Footer{
+	color: rgb(255, 90, 67);
+}
